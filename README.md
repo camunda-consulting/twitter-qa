@@ -1,2 +1,2 @@
 # twitter-qa
-Template for the Camunda Training for Java Developes
+Template for the Camunda Training for Java Developers
