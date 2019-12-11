@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <pluginGroups>
+  </pluginGroups>
+
+  <proxies>
+    <proxy>
+      <id>optional</id>
+      <active>true</active>
+      <protocol>http</protocol>
+      <username>proxyuser</username>
+      <password>proxypass</password>
+      <host>proxy.host.net</host>
+      <port>80</port>
+      <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
+    </proxy>
+  </proxies>
+
+  <servers>
+    <server>
+      <id>camunda-bpm-nexus-ee</id>
+      <username>camunda enterprise user</username>
+      <password>camunda enterprise password</password>
+    </server>
+  </servers>
+
+  <mirrors>
+  </mirrors>
+
+  <profiles>
+  </profiles>
+</settings>
