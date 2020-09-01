@@ -11,4 +11,6 @@ camunda.bpm:
     lastName: Demo
   filter:
     create: All Tasks
+  job-execution:
+    max-wait: 10000
 server.port: 8080
