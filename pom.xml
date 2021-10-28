@@ -12,7 +12,7 @@
 
   <properties>
     <camunda.version>7.16.0</camunda.version>
-    <springBoot.version>2.5.6.RELEASE</springBoot.version>
+    <springBoot.version>2.5.6</springBoot.version>
 
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
