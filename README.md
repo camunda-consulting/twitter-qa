@@ -3,7 +3,7 @@ Template for the Camunda Training for Java Developers
 
 ## Maven Setup for Enterprise Version
 
-This template is ready to be used in the Camunda Enterprise version. You need to configure your Maven to access the artefacts from the private repository https://camunda.jfrog.io/artifactory/private/.
+This template is ready to be used in the Camunda Enterprise version. You need to configure your Maven to access the artefacts from the private repository https://artifacts.camunda.com/artifactory/private/.
 
 ### Company wide mirror available
 
